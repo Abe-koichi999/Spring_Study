@@ -2,6 +2,7 @@ package com.jutjoy.domain.service.news;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -18,12 +19,22 @@ public class NewsListService {
     @Autowired
     private NewsRepository newsRepository;
 
-    public List<News> list() {
+    public List<News> list(String title) {
 
         List<News> newsList = new ArrayList<>();
-        // 一覧取得
-        newsList = newsRepository.findAllByOrderById();
+
+        if (Objects.isNull(title) || title.isEmpty()) {
+            // 一覧取得
+            newsList = newsRepository.findAllByOrderById();
+        } else {
+            // 検索
+            newsList = newsRepository.findByTitleLike(createLikeParam(title));
+        }
 
         return newsList;
+    }
+
+    private String createLikeParam(String param) {
+        return "%" + param + "%";
     }
 }

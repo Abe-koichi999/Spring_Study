@@ -10,5 +10,7 @@ import com.jutjoy.domain.entity.news.News;
 @Repository
 public interface NewsRepository extends JpaRepository<News, Integer> {
     public List<News> findAllByOrderById();
+    
+    public List<News> findByTitleLike(String title);
 }
 

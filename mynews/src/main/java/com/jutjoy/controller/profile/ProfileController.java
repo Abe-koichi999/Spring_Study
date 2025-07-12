@@ -1,5 +1,7 @@
 package com.jutjoy.controller.profile;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -9,9 +11,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
 
+import com.jutjoy.domain.entity.profile.Profile;
 import com.jutjoy.domain.form.profile.ProfileCreateForm;
 import com.jutjoy.domain.service.profile.ProfileCreateService;
+import com.jutjoy.domain.service.profile.ProfileListService;
 
 @Controller
 @RequestMapping("/profile")
@@ -19,6 +24,9 @@ public class ProfileController {
     
     @Autowired
     private ProfileCreateService profileCreateService;
+    
+    @Autowired
+    private ProfileListService profileListService;
 
     @GetMapping("/create")
     public String create(@ModelAttribute("form") ProfileCreateForm profileCreateForm) {
@@ -41,5 +49,15 @@ public class ProfileController {
     @GetMapping("/create/complete")
     public String complete() {
         return "profile/complete";
+    }
+    
+    @GetMapping("/list")
+    public String list(@RequestParam(name = "name", required = false) String name, Model model) {
+
+        List<Profile> profileList = profileListService.list(name);
+        model.addAttribute("profileList", profileList);
+        model.addAttribute("name", name);
+
+        return "profile/list";
     }
 }
