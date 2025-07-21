@@ -1,4 +1,4 @@
-package com.jutjoy.domain.repository;
+package com.jutjoy.domain.repository.profile;
 
 import java.util.List;
 

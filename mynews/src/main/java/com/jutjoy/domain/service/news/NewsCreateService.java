@@ -13,7 +13,7 @@ import org.springframework.web.multipart.MultipartFile;
 import com.jutjoy.common.CommonConstant;
 import com.jutjoy.domain.entity.news.News;
 import com.jutjoy.domain.form.news.NewsCreateForm;
-import com.jutjoy.domain.repository.NewsRepository;
+import com.jutjoy.domain.repository.news.NewsRepository;
 
 import lombok.AllArgsConstructor;
 

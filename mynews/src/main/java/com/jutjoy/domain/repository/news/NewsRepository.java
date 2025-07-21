@@ -1,4 +1,4 @@
-package com.jutjoy.domain.repository;
+package com.jutjoy.domain.repository.news;
 
 import java.util.List;
 

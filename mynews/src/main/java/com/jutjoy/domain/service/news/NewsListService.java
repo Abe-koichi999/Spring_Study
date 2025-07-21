@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.jutjoy.domain.entity.news.News;
-import com.jutjoy.domain.repository.NewsRepository;
+import com.jutjoy.domain.repository.news.NewsRepository;
 
 import lombok.AllArgsConstructor;
 

@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 
 import com.jutjoy.domain.entity.profile.Profile;
 import com.jutjoy.domain.form.profile.ProfileCreateForm;
-import com.jutjoy.domain.repository.ProfileRepository;
+import com.jutjoy.domain.repository.profile.ProfileRepository;
 
 import lombok.AllArgsConstructor;
 
