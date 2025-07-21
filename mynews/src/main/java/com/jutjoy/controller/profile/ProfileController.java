@@ -57,7 +57,7 @@ public class ProfileController {
         return "redirect:/profile/create/complete";
     }
     
-    @GetMapping("/profile/{action}/complete")
+    @GetMapping("/{action}/complete")
     public String complete(@PathVariable(name = "action") String action, Model model) {
 
         return "profile/complete";
