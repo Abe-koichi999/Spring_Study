@@ -15,10 +15,10 @@ public class ProfileEditForm {
     @NotEmpty(message = "＊どちらか選んでください。")
     private String gender;
     
-    @Size(max = 20, message = "＊趣味は20文字以内で設定してください。")
+    @Size(max = 20, message = "＊趣味は40文字以内で設定してください。")
     private String hobby;
     
-    @Size(max = 20, message = "＊自己紹介は20文字以内で設定してください。")
+    @Size(max = 20, message = "＊自己紹介は100文字以内で設定してください。")
     private String introduction;
 
 }
