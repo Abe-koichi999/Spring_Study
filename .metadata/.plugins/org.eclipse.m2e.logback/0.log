@@ -2791,3 +2791,235 @@
 2025-07-21 09:38:57,981 [Worker-8: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
 2025-07-21 09:38:57,988 [Worker-8: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
 2025-07-21 09:38:57,990 [Worker-8: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:30:13,940 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:30:13,954 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:30:13,958 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:31:03,847 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:31:03,851 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:31:03,855 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:39:39,613 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:39:39,614 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:39:39,617 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:40:03,077 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:40:03,078 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:40:03,080 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:40:32,140 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:40:32,144 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:40:32,147 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:40:36,984 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:40:36,985 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:40:36,987 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:46:31,680 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:46:31,682 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:46:31,684 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:46:58,856 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:46:58,857 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:46:58,859 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:47:22,910 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:47:22,911 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:47:22,913 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:48:12,328 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:48:12,331 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:48:12,333 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:49:41,906 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:49:41,908 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:49:41,910 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:51:01,393 [Worker-2: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:51:01,394 [Worker-2: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:51:01,395 [Worker-2: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:52:21,898 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:52:21,900 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:52:21,902 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:57:38,803 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-22 17:57:38,804 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:57:38,807 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:59:19,401 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-22 17:59:19,403 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:59:19,405 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:59:36,955 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-22 17:59:36,957 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:59:36,959 [Worker-4: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:59:44,461 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-22 17:59:44,461 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:59:44,463 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-22 17:59:49,514 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-22 17:59:49,517 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-22 17:59:49,521 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:01:27,791 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 21:01:27,796 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 21:01:27,798 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/helloSpringBoot/src/test/resources
+2025-07-23 21:11:00,161 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:11:00,166 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:11:00,170 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:11:23,922 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:11:23,928 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:11:23,930 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:11:35,564 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:11:35,567 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:11:35,569 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:12:40,364 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:12:40,367 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:12:40,369 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:14:09,662 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:14:09,664 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:14:09,666 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:16:10,111 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:16:10,112 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:16:10,115 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:16:36,095 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:16:36,098 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:16:36,100 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:17:47,250 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:17:47,251 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:17:47,253 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:19:56,676 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:19:56,680 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:19:56,682 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:21:31,051 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:21:31,055 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:21:31,057 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:22:37,404 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:22:37,405 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:22:37,407 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:22:41,790 [Worker-24: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:22:41,791 [Worker-24: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:22:41,793 [Worker-24: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:24:30,916 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:24:30,918 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:24:30,922 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:26:27,752 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:26:27,756 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:26:27,759 [Worker-12: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:30:05,652 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:30:05,653 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:30:05,655 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:36:24,994 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:36:24,998 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:36:25,000 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:53:29,216 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:53:29,220 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-07-23 21:53:29,225 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/helloSpringBoot/src/test/resources
+2025-07-23 21:53:29,349 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:53:29,351 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 21:53:29,362 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 21:53:29,588 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 21:53:29,589 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-07-23 21:53:29,593 [Worker-15: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/spring-mvc/src/test/resources
+2025-07-23 22:00:19,546 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:00:19,548 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 22:00:19,551 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:00:54,433 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:00:54,437 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 22:00:54,441 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:01:12,022 [Worker-16: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:01:12,023 [Worker-16: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 22:01:12,024 [Worker-16: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:02:25,089 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:02:25,091 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 22:02:25,093 [Worker-21: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:16:31,429 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:16:31,436 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 22:16:31,439 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:25:00,709 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:25:00,711 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:25:00,714 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:37:24,165 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:37:24,166 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:37:24,168 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:37:30,050 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:37:30,051 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:37:30,053 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:41:39,244 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:41:39,247 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:41:39,249 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:42:17,983 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:42:17,984 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:42:17,985 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 22:45:04,585 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-23 22:45:04,587 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 22:45:04,588 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:00:22,400 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:00:22,403 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:00:22,406 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:01:01,623 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:01:01,623 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-07-23 23:01:01,625 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/helloSpringBoot/src/test/resources
+2025-07-23 23:01:01,716 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:01:01,717 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:01:01,726 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:01:01,811 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:01:01,812 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-07-23 23:01:01,815 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/spring-mvc/src/test/resources
+2025-07-23 23:03:22,977 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:03:22,979 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:03:22,980 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:03:36,766 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:03:36,771 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:03:36,774 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:04:33,663 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:04:33,666 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:04:33,669 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:04:55,905 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:04:55,908 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:04:55,910 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:05:07,908 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:05:07,909 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:05:07,911 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:07:49,835 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:07:49,836 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-07-23 23:07:49,840 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/helloSpringBoot/src/test/resources
+2025-07-23 23:07:50,025 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:07:50,026 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-23 23:07:50,034 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-23 23:07:50,132 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-23 23:07:50,134 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-07-23 23:07:50,139 [Worker-13: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/spring-mvc/src/test/resources
+2025-07-23 23:08:31,098 [Worker-22: Maven 依存関係の更新中] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jutjoy:mynews:0.0.1-SNAPSHOT @ /Users/a44/Documents/Spring_Study/mynews/pom.xml.
+2025-07-24 22:20:11,280 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:20:11,294 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-24 22:20:11,301 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:20:44,722 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-24 22:20:44,723 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:20:44,725 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:24:04,932 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-24 22:24:04,933 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:24:04,935 [Worker-6: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:29:51,709 [Worker-17: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:29:51,713 [Worker-17: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-24 22:29:51,716 [Worker-17: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:29:57,013 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:29:57,018 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-24 22:29:57,021 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:30:38,684 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:30:38,689 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-24 22:30:38,692 [Worker-3: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:30:57,871 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:30:57,876 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-24 22:30:57,879 [Worker-26: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-24 22:36:17,289 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2025-07-24 22:36:17,290 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-24 22:36:17,292 [Worker-23: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:21:39,920 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:21:39,925 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:21:39,927 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:21:53,401 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:21:53,403 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:21:53,406 [Worker-11: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:42:15,338 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:42:15,339 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src/main/resources to target/classes
+2025-07-25 20:42:15,342 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/helloSpringBoot/src/test/resources
+2025-07-25 20:42:15,454 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:42:15,469 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:42:15,481 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:42:15,566 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:42:15,567 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 4 resources from src/main/resources to target/classes
+2025-07-25 20:42:15,572 [Worker-10: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/spring-mvc/src/test/resources
+2025-07-25 20:52:38,950 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:52:38,951 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:52:38,953 [Worker-25: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:52:58,079 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:52:58,086 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:52:58,089 [Worker-0: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
+2025-07-25 20:53:57,215 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src/main/resources to target/classes
+2025-07-25 20:53:57,218 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 20 resources from src/main/resources to target/classes
+2025-07-25 20:53:57,221 [Worker-19: ビルド] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory /Users/a44/Documents/Spring_Study/mynews/src/test/resources
