@@ -14,7 +14,7 @@ import lombok.AllArgsConstructor;
 public class ProfileCreateService {
     @Autowired
     private ProfileRepository profileRepository;
-    
+
     public void create(ProfileCreateForm form) {
 
         Profile entity = new Profile();

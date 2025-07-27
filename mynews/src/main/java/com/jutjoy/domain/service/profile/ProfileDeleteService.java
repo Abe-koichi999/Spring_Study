@@ -14,8 +14,6 @@ public class ProfileDeleteService {
     @Autowired
     private ProfileRepository profileRepository;
 
-    private final String FILE_PATH = "/upload_file/profile";
-
     public void delete(Integer id) {
 
         profileRepository.deleteById(id);
