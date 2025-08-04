@@ -1,4 +1,4 @@
-package com.jutjoy.domain.entity. profile;
+package com.jutjoy.domain.entity.profile;
 
 import java.sql.Timestamp;
 
@@ -20,7 +20,7 @@ import lombok.Data;
 
 @Entity
 @DynamicUpdate
-@Table(name="profiles_histories")
+@Table(name = "profiles_histories")
 @Data
 @EntityListeners(AuditingEntityListener.class)
 public class ProfileHistories {

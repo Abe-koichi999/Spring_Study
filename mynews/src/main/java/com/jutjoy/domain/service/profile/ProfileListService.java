@@ -22,9 +22,9 @@ public class ProfileListService {
     public List<Profile> list(String name) {
 
         List<Profile> profileList = new ArrayList<>();
-        
+
         if (Objects.isNull(name) || name.isEmpty()) {
-            // 一覧取得
+            // リポジトリで定義したメソッド呼び出し。一覧取得
             profileList = ProfileRepository.findAllByOrderById();
         } else {
             // 検索
@@ -33,7 +33,7 @@ public class ProfileListService {
 
         return profileList;
     }
-    
+
     private String createLikeParam(String param) {
         return "%" + param + "%";
     }

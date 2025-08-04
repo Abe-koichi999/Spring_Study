@@ -14,10 +14,10 @@
 		</section>
 	</section>
 	<section name="WorkbenchPreferenceDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="0"/>
-		<item key="DIALOG_Y_ORIGIN" value="0"/>
-		<item key="DIALOG_WIDTH" value="1728"/>
-		<item key="DIALOG_HEIGHT" value="1003"/>
+		<item key="DIALOG_X_ORIGIN" value="-346"/>
+		<item key="DIALOG_Y_ORIGIN" value="341"/>
+		<item key="DIALOG_WIDTH" value="960"/>
+		<item key="DIALOG_HEIGHT" value="515"/>
 		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">

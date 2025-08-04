@@ -11,43 +11,48 @@
 	<main layout:fragment="contents">
 		<div class="wrapper">
 			<h1>プロフィール編集</h1>
-			<form th:action="@{/profile/edit/__${profile.id}__}" enctype="multipart/form-data" method="post"
-				th:object="${form}">
+			<form th:action="@{/profile/edit/__${profile.id}__}" enctype="multipart/form-data" method="post">
 				<ul class="form-ul">
 					<li>
-						<p th:if="${#fields.hasErrors('name')}" th:errors="*{name}" th:errorclass="error_msg"></p>
+						<p th:if="${#fields.hasErrors('form.name')}" th:errors="*{form.name}" th:errorclass="error_msg">
+						</p>
 						<div class="form-body">
 							<label for="name" class="name">名前</label>
-							<input type="text" th:field="*{name}" class="input-area">
+							<input type="text" th:value="${profile.name}" class="input-area" name="name">
 						</div>
 					</li>
 					<li>
-						<p th:if="${#fields.hasErrors('gender')}" th:errors="*{gender}" th:errorclass="error_msg"></p>
+						<p th:if="${#fields.hasErrors('form.gender')}" th:errors="*{form.gender}"
+							th:errorclass="error_msg"></p>
 						<div class="form-body">
 							<label for="gender" class="gender">性別</label>
-							<label>
-								<input type="radio" textarea th:field="*{gender}" th:value="男性" />
-								男性
-							</label>
-							<label>
-								<input type="radio" textarea th:field="*{gender}" th:value="女性" />
-								女性
-							</label>
+							<div class="form-gender">
+								<label>
+									<input type="radio" th:field="*{profile.gender}" th:value="男性" />
+									男性
+								</label>
+								<label>
+									<input type="radio" th:field="*{profile.gender}" th:value="女性" />
+									女性
+								</label>
+							</div>
 						</div>
 					</li>
 					<li>
-						<p th:if="${#fields.hasErrors('hobby')}" th:errors="*{hobby}" th:errorclass="error_msg"></p>
+						<p th:if="${#fields.hasErrors('form.hobby')}" th:errors="*{form.hobby}"
+							th:errorclass="error_msg"></p>
 						<div class="form-body">
 							<label for="hobby" class="hobby">趣味</label>
-							<textarea th:field="*{hobby}" rows="15" class="input-area textarea"></textarea>
+							<textarea th:field="*{profile.hobby}" rows="15" class="input-area textarea"></textarea>
 						</div>
 					</li>
 					<li>
-						<p th:if="${#fields.hasErrors('introduction')}" th:errors="*{introduction}"
+						<p th:if="${#fields.hasErrors('form.introduction')}" th:errors="*{form.introduction}"
 							th:errorclass="error_msg"></p>
 						<div class="form-body">
 							<label for="introduction" class="introduction">自己紹介</label>
-							<textarea th:field="*{introduction}" rows="15" class="input-area textarea"></textarea>
+							<textarea th:field="*{profile.introduction}" rows="15"
+								class="input-area textarea"></textarea>
 						</div>
 					</li>
 					<li class="btn-area">
@@ -57,10 +62,10 @@
 			</form>
 			<div class="return_btn-area"><a class="return_btn" th:href="@{/profile/list}">一覧画面に戻る</a></div>
 			<p class="history_text">編集履歴</p>
-						<ul class="history">
-							<li th:each="history : ${profile.histories}" class="date"
-								th:text="${#dates.format(history.editedDate, 'yyyy-MM-dd hh:mm:ss')}"></li>
-						</ul>
+			<ul class="history">
+				<li th:each="history : ${profile.histories}" class="date"
+					th:text="${#dates.format(history.editedDate, 'yyyy-MM-dd hh:mm:ss')}"></li>
+			</ul>
 		</div>
 	</main>
 </body>

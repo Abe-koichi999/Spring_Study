@@ -20,7 +20,7 @@ import lombok.Data;
 
 @Entity
 @DynamicUpdate
-@Table(name="news_histories")
+@Table(name = "news_histories")
 @Data
 @EntityListeners(AuditingEntityListener.class)
 public class NewsHistories {

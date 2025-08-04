@@ -21,7 +21,7 @@ import lombok.Data;
 
 @Entity
 @DynamicUpdate
-@Table(name="news")
+@Table(name = "news")
 @Data
 @EntityListeners(AuditingEntityListener.class)
 public class News {
@@ -48,8 +48,8 @@ public class News {
     @Column(name = "updated_date")
     private Timestamp updatedDate;
 
-/* ここから */
+    /* ここから */
     @OneToMany(mappedBy = "news")
     private List<NewsHistories> histories;
-/* ここまで */
+    /* ここまで */
 }

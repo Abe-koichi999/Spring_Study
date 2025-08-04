@@ -20,7 +20,7 @@ public class ProfileEditService {
 
     @Autowired
     private ProfileRepository profileRepository;
-    
+
     @Autowired
     private ProfileHistoriesRepository profileHistoriesRepository;
 
@@ -29,10 +29,10 @@ public class ProfileEditService {
         Profile entity = profileRepository.findById(id).get();
 
         editProfile(entity, form);
-        
+
         registerHistory(entity.getId());
 
-        } 
+    }
 
     public Profile findProfile(int id) {
 
@@ -48,7 +48,7 @@ public class ProfileEditService {
         entity.setIntroduction(form.getIntroduction());
         return profileRepository.save(entity);
     }
-    
+
     private void registerHistory(Integer id) {
         ProfileHistories entity = new ProfileHistories();
         entity.setProfileId(id);

@@ -10,7 +10,17 @@
 	font-size: 1.4rem;
 	margin-bottom: 50px;
 	align-self: baseline;
+	align-items: center;
 }
+
+.form-gender {
+	display: flex;
+	/* 男性・女性のラベルを横並びにする */
+	gap: 30px;
+	/* 男性・女性間の間隔を0にする */
+	margin-right: 45%;
+}
+
 
 .form-ul>li:not(:first-child) {
 	margin-top: 20px;
@@ -70,4 +80,11 @@
 
 .history_text {
 	font-size: 1.4rem;
+}
+
+.date {
+	width: 200px;
+	border: 1px solid;
+	margin: 0 auto;
+	padding: 5px 0;
 }

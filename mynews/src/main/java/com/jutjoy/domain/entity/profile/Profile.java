@@ -19,7 +19,7 @@ import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 import lombok.Data;
 
 @Entity
-@Table(name="profiles")
+@Table(name = "profiles")
 @Data
 @EntityListeners(AuditingEntityListener.class)
 
@@ -28,7 +28,7 @@ public class Profile {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
     private Integer id;
-    
+
     @Column(name = "name")
     private String name;
 
@@ -48,7 +48,7 @@ public class Profile {
     @LastModifiedDate
     @Column(name = "updated_date")
     private Timestamp updatedDate;
-    
+
     @OneToMany(mappedBy = "profile")
     private List<ProfileHistories> histories;
 }

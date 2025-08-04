@@ -26,27 +26,28 @@ import com.jutjoy.domain.service.profile.ProfileListService;
 
 @RequestMapping("/profile")
 public class ProfileController {
-    
+
     @Autowired
     private ProfileCreateService profileCreateService;
-    
+
     @Autowired
     private ProfileListService profileListService;
-    
+
     @Autowired
     private ProfileEditService profileEditService;
-    
+
     @Autowired
     private ProfileDeleteService profileDeleteService;
 
+    // create.htmlが表示される
     @GetMapping("/create")
     public String create(@ModelAttribute("form") ProfileCreateForm profileCreateForm) {
         return "profile/create";
     }
-    
+
     @PostMapping("/create")
-    public String create(@Validated @ModelAttribute("form") ProfileCreateForm profileCreateForm,
-            BindingResult result, Model model) {
+    public String create(@Validated @ModelAttribute("form") ProfileCreateForm profileCreateForm, BindingResult result,
+            Model model) {
 
         if (result.hasErrors()) {
             return "profile/create";
@@ -56,13 +57,13 @@ public class ProfileController {
 
         return "redirect:/profile/create/complete";
     }
-    
+
     @GetMapping("/{action}/complete")
     public String complete(@PathVariable(name = "action") String action, Model model) {
 
         return "profile/complete";
     }
-    
+
     @GetMapping("/list")
     public String list(@RequestParam(name = "name", required = false) String name, Model model) {
 
@@ -72,10 +73,10 @@ public class ProfileController {
 
         return "profile/list";
     }
-    
+
     @GetMapping("/edit/{id}")
-    public String edit(@ModelAttribute("form") ProfileEditForm profileEditForm,
-            @PathVariable(name = "id") int id, Model model) {
+    public String edit(@ModelAttribute("form") ProfileEditForm profileEditForm, @PathVariable(name = "id") int id,
+            Model model) {
 
         Profile profile = profileEditService.findProfile(id);
         model.addAttribute("profile", profile);
@@ -85,8 +86,7 @@ public class ProfileController {
 
     @PostMapping("/edit/{id}")
     public String edit(@PathVariable(name = "id") int id,
-            @Validated @ModelAttribute("form") ProfileEditForm profileEditForm, BindingResult result,
-            Model model) {
+            @Validated @ModelAttribute("form") ProfileEditForm profileEditForm, BindingResult result, Model model) {
 
         if (result.hasErrors()) {
             return edit(profileEditForm, id, model);
@@ -95,7 +95,7 @@ public class ProfileController {
 
         return "redirect:/profile/edit/complete";
     }
-    
+
     @PostMapping("/delete")
     public String delete(@RequestParam(name = "id", required = true) int id, Model model) {
         profileDeleteService.delete(id);

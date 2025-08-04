@@ -23,16 +23,16 @@ import com.jutjoy.domain.service.news.NewsListService;
 
 @Controller
 public class NewsController {
-    
+
     @Autowired
     private NewsCreateService newsCreateService;
-    
+
     @Autowired
     private NewsListService newsListService;
-    
+
     @Autowired
     private NewsEditService newsEditService;
-    
+
     @Autowired
     private NewsDeleteService newsDeleteService;
 
@@ -40,10 +40,10 @@ public class NewsController {
     public String create(@ModelAttribute("form") NewsCreateForm newsCreateForm) {
         return "news/create";
     }
-    
+
     @PostMapping("/news/create")
-    public String create(@Validated @ModelAttribute("form") NewsCreateForm newsCreateForm,
-            BindingResult result, Model model) {
+    public String create(@Validated @ModelAttribute("form") NewsCreateForm newsCreateForm, BindingResult result,
+            Model model) {
 
         if (result.hasErrors()) {
             return "news/create";
@@ -53,13 +53,13 @@ public class NewsController {
 
         return "redirect:/news/create/complete";
     }
-    
+
     @GetMapping("/news/{action}/complete")
     public String complete(@PathVariable(name = "action") String action, Model model) {
 
         return "news/complete";
     }
-    
+
     @GetMapping("/news/list")
     public String list(@RequestParam(name = "title", required = false) String title, Model model) {
 
@@ -69,10 +69,10 @@ public class NewsController {
 
         return "news/list";
     }
-    
+
     @GetMapping("/news/edit/{id}")
-    public String edit(@ModelAttribute("form") NewsEditForm newsEditForm,
-            @PathVariable(name = "id") int id, Model model) {
+    public String edit(@ModelAttribute("form") NewsEditForm newsEditForm, @PathVariable(name = "id") int id,
+            Model model) {
 
         News news = newsEditService.findNews(id);
         model.addAttribute("news", news);
@@ -81,9 +81,8 @@ public class NewsController {
     }
 
     @PostMapping("/news/edit/{id}")
-    public String edit(@PathVariable(name = "id") int id,
-            @Validated @ModelAttribute("form") NewsEditForm newsEditForm, BindingResult result,
-            Model model) {
+    public String edit(@PathVariable(name = "id") int id, @Validated @ModelAttribute("form") NewsEditForm newsEditForm,
+            BindingResult result, Model model) {
 
         if (result.hasErrors()) {
             return edit(newsEditForm, id, model);
@@ -92,7 +91,7 @@ public class NewsController {
 
         return "redirect:/news/edit/complete";
     }
-    
+
     @PostMapping("/news/delete")
     public String delete(@RequestParam(name = "id", required = true) int id, Model model) {
         newsDeleteService.delete(id);

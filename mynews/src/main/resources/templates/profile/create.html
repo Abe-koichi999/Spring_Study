@@ -24,14 +24,16 @@
 						<p th:if="${#fields.hasErrors('gender')}" th:errors="*{gender}" th:errorclass="error_msg"></p>
 						<div class="form-body">
 							<label for="gender" class="gender">性別</label>
-							<label>
-								<input type="radio" textarea th:field="*{gender}" th:value="男性" />
-								男性
-							</label>
-							<label>
-								<input type="radio" textarea th:field="*{gender}" th:value="女性" />
-								女性
-							</label>
+							<div class="form-gender">
+								<label>
+									<input type="radio" textarea th:field="*{gender}" th:value="男性" />
+									男性
+								</label>
+								<label>
+									<input type="radio" textarea th:field="*{gender}" th:value="女性" />
+									女性
+								</label>
+							</div>
 						</div>
 					</li>
 					<li>

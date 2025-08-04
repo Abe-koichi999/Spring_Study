@@ -5,6 +5,7 @@ import jakarta.validation.constraints.Size;
 
 import lombok.Data;
 
+//更新機能のモデルクラス
 @Data
 public class ProfileEditForm {
 
@@ -14,10 +15,10 @@ public class ProfileEditForm {
 
     @NotEmpty(message = "＊どちらか選んでください。")
     private String gender;
-    
+
     @Size(max = 40, message = "＊趣味は40文字以内で設定してください。")
     private String hobby;
-    
+
     @Size(max = 100, message = "＊自己紹介は100文字以内で設定してください。")
     private String introduction;
 
